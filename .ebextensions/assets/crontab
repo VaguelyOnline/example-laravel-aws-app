@@ -1,0 +1,1 @@
+4 * * * * php /var/app/current/artisan some:task >> /tmp/example_task_output.log
